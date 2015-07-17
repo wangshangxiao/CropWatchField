@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?>
+<CropTypes>
+  <CropType Code="0" Name="非耕地" />
+  <CropType Code="1" Name="玉米" />
+  <CropType Code="2" Name="水稻" />
+  <CropType Code="3" Name="大豆" />
+  <CropType Code="4" Name="小麦" />
+  <CropType Code="5" Name="蔬菜" />
+  <CropType Code="6" Name="马铃薯" />
+  <CropType Code="7" Name="大硼" />
+  <CropType Code="8" Name="其他作物" />
+  <CropType Code="9" Name="未种耕地" />
+ </CropTypes>

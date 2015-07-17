@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SystemConfig>
+  <OracleDBConfig>
+    <ServerType>Oracle</ServerType>
+    <ServerName>192.9.200.252</ServerName>
+    <Instance>orcl</Instance>
+    <DBName>CROP</DBName>
+    <UserName>crop</UserName>
+    <Password>crop</Password>
+  </OracleDBConfig>
+  <MySQLDBConfig>
+    <ServerType>MySQL</ServerType>
+    <ServerName>192.9.200.252</ServerName>
+    <Instance>orcl</Instance>
+    <DBName>CROP</DBName>
+    <UserName>mysql</UserName>
+    <Password>mysql</Password>
+  </MySQLDBConfig>
+  <IDLPath>
+    <IDLPath>C:\\Program Files\\Exelis\\IDL82\\bin\\bin.x86\\idl.dll</IDLPath>
+    <AutoPath>D:\\workspace\\VS2008\\LandInfoExtract\\LandInfoExtract\\temp\\AutoSample\\</AutoPath>
+    <ApplicationPath>D:\\workspace\\VS2008\\LandInfoExtract\\LandInfoExtract\\temp\\ApplicationSample\\</ApplicationPath>
+    <IDLProPath>D:\\workspace\\VS2008\\LandInfoExtract\\LandInfoExtract\\bin\\x86\\Debug\\</IDLProPath>
+    <IDLProName>drawexapmle</IDLProName>
+  </IDLPath>
+</SystemConfig>

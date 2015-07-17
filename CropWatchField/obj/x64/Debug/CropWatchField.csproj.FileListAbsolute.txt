@@ -1,0 +1,5 @@
+D:\02_HongXing\04_system\20140609\20140609\CropWatchField\CropWatchField\CropWatchField\bin\x64\Debug\CropWatchField.exe.config
+D:\02_HongXing\04_system\20140609\20140609\CropWatchField\CropWatchField\CropWatchField\obj\x64\Debug\CropWatchField.csproj.ResolveComReference.cache
+D:\02_HongXing\04_system\20140609\20140609\CropWatchField\CropWatchField\CropWatchField\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\02_HongXing\04_system\20140609\20140609\CropWatchField\CropWatchField\CropWatchField\obj\x64\Debug\ResGen.read.1.tlog
+D:\02_HongXing\04_system\20140609\20140609\CropWatchField\CropWatchField\CropWatchField\obj\x64\Debug\ResGen.write.1.tlog

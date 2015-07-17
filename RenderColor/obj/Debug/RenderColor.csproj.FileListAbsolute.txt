@@ -1,0 +1,19 @@
+E:\中科院\CropWatchField V3.1\CropWatchField\RenderColor\bin\Debug\RenderColor.dll
+E:\中科院\CropWatchField V3.1\CropWatchField\RenderColor\bin\Debug\RenderColor.pdb
+E:\中科院\CropWatchField V3.1\CropWatchField\RenderColor\obj\Debug\ResolveAssemblyReference.cache
+E:\中科院\CropWatchField V3.1\CropWatchField\RenderColor\obj\Debug\CropWatchField.ComboBoxSym.resources
+E:\中科院\CropWatchField V3.1\CropWatchField\RenderColor\obj\Debug\RenderColor.dll
+E:\中科院\CropWatchField V3.1\CropWatchField\RenderColor\obj\Debug\RenderColor.pdb
+D:\Workspaces\VS2010\RenderColor\bin\Debug\RenderColor.dll
+D:\Workspaces\VS2010\RenderColor\bin\Debug\RenderColor.pdb
+D:\Workspaces\VS2010\RenderColor\obj\Debug\CropWatchField.ComboBoxSym.resources
+D:\Workspaces\VS2010\RenderColor\obj\Debug\RenderColor.csproj.GenerateResource.Cache
+D:\Workspaces\VS2010\RenderColor\obj\Debug\RenderColor.dll
+D:\Workspaces\VS2010\RenderColor\obj\Debug\RenderColor.pdb
+D:\77211356\code\SVN_VS\RenderColor\bin\Debug\RenderColor.dll
+D:\77211356\code\SVN_VS\RenderColor\bin\Debug\RenderColor.pdb
+D:\77211356\code\SVN_VS\RenderColor\obj\Debug\RenderColor.csprojResolveAssemblyReference.cache
+D:\77211356\code\SVN_VS\RenderColor\obj\Debug\CropWatchField.ComboBoxSym.resources
+D:\77211356\code\SVN_VS\RenderColor\obj\Debug\RenderColor.csproj.GenerateResource.Cache
+D:\77211356\code\SVN_VS\RenderColor\obj\Debug\RenderColor.dll
+D:\77211356\code\SVN_VS\RenderColor\obj\Debug\RenderColor.pdb
